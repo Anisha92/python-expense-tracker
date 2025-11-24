@@ -12,6 +12,7 @@ A beautifully designed Expense Tracker App built using Python Tkinter. It helps 
 ### Main Window
 ![Main Window](images/screen-1.png)
 
+
 ### Expenses Table View
 ![Table View](images/screen-2.png)
 
